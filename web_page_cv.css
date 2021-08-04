@@ -1,0 +1,64 @@
+header {
+  background-color: black;
+  color: rgb(154, 154, 154);
+  display: flex;
+  border: none;
+  justify-content: space-between;
+  width: 100%;
+  border-bottom: 2px solid rgb(114, 171, 0);
+  align-items: center;
+  height: 130px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.left_sec_header {
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.job_title {
+  color: green;
+  font-size: 22px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+header h1 {
+  font-size: 40px;
+  color: rgb(114, 171, 0);
+}
+.greg {
+  font-size: 51px;
+}
+.saint {
+  font-size: 51px;
+  color: rgb(154, 154, 154);
+}
+nav ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  decoration: none;
+  list-style: none;
+
+  margin-right: 100px;
+
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+li {
+  border-top: 1px solid rgb(154, 154, 154);
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  width: 96px;
+  height: 22px;
+  position: relative;
+  box-sizing: border-box;
+  overflow: visible;
+  visibility: inherit;
+}
+li:hover {
+  color: rgb(114, 171, 0);
+  border-top: 4px solid rgb(114, 171, 0);
+}
