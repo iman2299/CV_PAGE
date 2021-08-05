@@ -1,0 +1,267 @@
+
+
+.all-div{
+    margin-left: 40px;
+    margin-top: 80px; 
+    margin-bottom: 100px;
+    margin-right: 40px;
+    border:1px solid #cdcdcd;
+    display: flex;
+    flex-flow: row;
+    border: var(--container-corvid-border-width,var(--brw,1px)) solid var(--container-corvid-border-color,rgba(var(--brd,var(--color_15)),var(--alpha-brd,1)));
+    background-color: var(--container-corvid-background-color,rgba(var(--bg,var(--color_11)),var(--alpha-bg,1)));
+    border-radius: var(--rd,5px);
+    box-shadow: var(--shd,0 1px 4px rgba(104, 102, 102, 0.6));
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #f8f8f8;
+    height: 456px;
+    width: 918px;
+    margin: 0 auto;
+
+} 
+.image-div{
+    width: 350px;
+    height: 371px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    margin-left: 40px;
+    margin-top: 40px; 
+    border:1px solid #b5b5b5;
+}
+main{
+position: relative;
+    }
+  h4{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    font-size: 15px;
+    line-height: normal;
+    letter-spacing: normal;
+    font-weight: 400;
+        color: #7eb225;
+    }
+    h3{
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 25px;
+    color: #7eb225;
+     margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+font-weight: 400;
+    
+    }
+h1{
+    color: #71ab23;
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    letter-spacing: normal;
+
+}
+body {
+    font-size: 15px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+#pargraph1{
+ width: 283px;
+ height: 133px;
+ font-size: 15.4px;
+ color: #7f7a6f;
+ line-height: normal;
+    letter-spacing: normal;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.hello-div{
+    margin-left: 40px;
+    margin-top: 25px; 
+   
+}
+.button-div{
+      margin-top: 100px;
+    position: relative;
+}
+button{
+    background-color: #71ab23; 
+    border: solid var(--corvid-border-color,rgba(var(--brd,var(--color_15)),var(--alpha-brd,1))) var(--corvid-border-width,var(--brw,0));
+    cursor: pointer!important;
+    color: white;
+    border-radius: var(--corvid-border-radius,var(--rd,0));
+    font-size: 15px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 130px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+p{
+    color: #7f7a6f;
+    font-size: 15px;
+    margin: 0;
+    display: block;
+    margin-block-start: 3.5px;
+    margin-block-end: 3.5px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+.final-div{
+    margin-left: 40px;
+    margin-top: 35px; 
+   margin-right:25x;
+}
+#fifth-div-inside-final,#forth-div-inside-final,#third-div-inside-final,#second-div-inside-final{
+margin-top: 28px;
+}
+a{
+    text-decoration: none;
+    margin-right: 5px;
+}
+#fifth-1-div-inside-final{
+    margin-top: 15px;
+    margin-left: 8px;
+}
+
+.vl {
+    border-left: 1px solid rgb(118, 121, 118);
+    height: 115px;
+    --lnw: 1px;
+    --brd: var(--color_13);
+    --mrg: 1px;
+    --alpha-brd: 0.46;
+}
+.Second-all-div{
+    margin-top: 50px; 
+    display: flex;
+    flex-flow: row;
+    background-color: var(--container-corvid-background-color,rgba(var(--bg,var(--color_11)),var(--alpha-bg,1)));
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 150px;
+    width: 918px;
+     margin-right:  auto;
+     margin-left: auto;
+}
+#Testimonnial-div,#fav_div,#recent-div{
+    width: 280px;
+    height: 115px;
+    margin-right: 25px;
+    margin-left: 25px;
+    font-size: 15px;
+}
+#Testimonnial-div h4{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+#fav_div h4{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+#recent-div h4{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+
+header {
+    
+margin-bottom: 50px;
+    /*..........*/
+    background-color: black;
+    color: rgb(154, 154, 154);
+    display: flex;
+    border: none;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 2px solid rgb(114, 171, 0);
+    align-items: center;
+    height: 125px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  .left_sec_header {
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  
+  }
+  
+  .job_title {
+    color: #4a9b21;  /*update color*/
+    font-size: 22px;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+  header h1 {
+    font-size: 40px;
+    color: rgb(114, 171, 0);
+  }
+  .greg {
+    font-size: 51px;
+  }
+  .saint {
+    font-size: 51px;
+    color: rgb(154, 154, 154);
+  }
+  nav ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    decoration: none;
+    list-style: none;
+    margin-right: 100px;
+    margin-top: 80px;  /*add margin top*/
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  
+  li {
+    border-top: 1px solid rgb(154, 154, 154);
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    width: 96px;
+    height: 22px;
+    position: relative;
+    box-sizing: border-box;
+    overflow: visible;
+    visibility: inherit;
+    padding: 8px; /*add padding*/
+   
+  }
+  li:hover {
+    color: rgb(114, 171, 0);
+    border-top: 4px solid rgb(114, 171, 0);
+  }
+  .creg_saint{
+margin-top: 30px;
+  }
