@@ -144,9 +144,10 @@ margin-top: 28px;
 a{
     text-decoration: none;
     margin-right: 5px;
+    
 }
 #fifth-1-div-inside-final{
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 8px;
 }
 
@@ -268,15 +269,84 @@ margin-top: 30px;
 #second-div{
     width:100%;
     height: auto;
+   margin-left: 150px;
+   display: flex;
+   flex-flow: row;
 }
   #Contacth2{
       color: #71ab23;
       position: relative;
-      margin: 80px 0px 23px calc((100% - 980px) * 0.5);
       font: normal normal normal 30px/1.1em helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
       font-weight: normal;
     }
 
     #f-div-Tel,#s-div-email{
-        margin-top: 30px;
+        margin-top: 25px;
     }
+    h6{
+        color: #83b847;
+        font-size: 20px;
+        margin: 0;
+
+    }
+    #Terry-div{
+        margin-top: 15px;
+      
+    }
+
+    #color-link{
+        color: #83b847;
+    }
+    #p-in-form-div{
+        margin-left: 50px;
+        margin-top: 110px;
+        margin-bottom: 30px;
+    }
+    form{
+        position: static;
+        display: grid;
+        height: auto;
+        width: 100%;
+        min-height: auto;
+        grid-template-rows: repeat(4, min-content) 1fr;
+        grid-template-columns: 100%;
+        margin-left: 50px;
+    }
+    input{
+        margin-top: 15px;
+        margin-bottom: 7px;
+        margin-left: 7px;
+        margin-right: 7px;
+        height: 26px;
+        width: 630px;
+        border: 1px solid #71ab23;
+       padding-left: 15px;
+          color: #545454;
+          font-size: 17px;
+    }
+    #last-input{
+        height: 150px;
+        width: 630px;
+        padding:0;
+    }
+  
+    textarea{
+        margin-top: 15px;
+        margin-bottom: 7px;
+        margin-left: 7px;
+        margin-right: 7px;
+        height: 100px;
+        width: 630px;
+        border: 1px solid #71ab23;
+       padding-left: 15px;
+          color:#545454;
+          font-size: 17px;  
+    }
+    textarea:focus, input:focus{
+        outline: none; 
+        border: 1px solid #71ab23;
+  }
+  textarea:focus::placeholder {
+    color: white;
+  }
+   
