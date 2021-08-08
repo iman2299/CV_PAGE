@@ -1,5 +1,3 @@
-
-
 .all-div{
     margin-left: 40px;
     margin-top: 80px; 
@@ -121,7 +119,6 @@ button{
     justify-content: center;
   
 }
-
 p{
     color: #7f7a6f;
     font-size: 15px;
@@ -150,7 +147,6 @@ a{
     margin-top: 20px;
     margin-left: 8px;
 }
-
 .vl {
     border-left: 1px solid rgb(118, 121, 118);
     height: 115px;
@@ -188,13 +184,10 @@ a{
     margin-bottom: 10px;
     font-size: 17px;
 }
-
 #recent-div h4{
     margin-bottom: 10px;
     font-size: 17px;
 }
-
-
 header {
     margin-bottom: 50px;
     /*..........*/
@@ -215,7 +208,6 @@ header {
     margin-bottom: 40px;
   
   }
-  
   .job_title {
     color: #4a9b21;  /*update color*/
     font-size: 22px;
@@ -244,7 +236,6 @@ header {
     text-align: center;
     margin-bottom: 0px;
   }
-  
   li {
     border-top: 1px solid rgb(154, 154, 154);
     justify-content: space-between;
@@ -279,7 +270,6 @@ margin-top: 30px;
       font: normal normal normal 30px/1.1em helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
       font-weight: normal;
     }
-
     #f-div-Tel,#s-div-email{
         margin-top: 25px;
     }
@@ -329,8 +319,7 @@ margin-top: 30px;
         width: 630px;
         padding:0;
     }
-  
-    textarea{
+   textarea{
         margin-top: 15px;
         margin-bottom: 7px;
         margin-left: 7px;
